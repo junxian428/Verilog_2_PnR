@@ -1,5 +1,8 @@
 # Verilog_2_PnR
 
+
+![image](https://github.com/user-attachments/assets/758eec33-52ef-42df-b404-16a676882c63)
+
 To convert a Verilog design to Place and Route (P&R) files, you'll typically go through a series of steps that include synthesis, place and route, and various verification checks. Below is a structured guide outlining the necessary steps and tools involved in this process:
 
 ### Steps to Convert Verilog to P&R Files
